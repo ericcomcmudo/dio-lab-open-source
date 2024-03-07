@@ -7,6 +7,7 @@ Programador de BSB especialista em **PHP** 🐘 (desde 2005) em mingração para
 
 [LinkedIn](https://www.linkedin.com/in/ericcomcmudo/)
 
+[HackerRank](https://www.hackerrank.com/profile/ericcomcmudo)
 --
 powered by Vim
 
